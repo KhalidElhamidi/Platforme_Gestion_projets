@@ -19,8 +19,8 @@ pour acceder l'interface pour test le plateforme :
 **interface admin** :---email : admin@test.com
 ---mot pass: admin123
 
-**interface admin** :---email : chefprojet@test.com
+**interface chef projet** :---email : chefprojet@test.com
 ---mot pass: chefp1234
 
-**interface admin** :---email : hamza@test.com
+**interface membre** :---email : hamza@test.com
 ---mot pass: hamza1234
