@@ -1,4 +1,4 @@
-# Plateforme de Gestion de Projets
+# Gest
 
 Ce projet est développé dans le cadre d'un projet de fin de module Python.
 
